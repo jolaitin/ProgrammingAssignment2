@@ -1,3 +1,7 @@
+##
+##  This is based on the forked copy of the R Programminc course repo
+##
+##
 ## Put comments here that give an overall description of what your
 ## functions do
 
